@@ -1,0 +1,33 @@
+﻿  hello world.cpp
+E:\GitProjects\OpenGL\hello world\hello world.cpp(17,22): warning C4566: 由通用字符名称“\uCD08”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(17,22): warning C4566: 由通用字符名称“\uAE30”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(17,22): warning C4566: 由通用字符名称“\uD654”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(17,22): warning C4566: 由通用字符名称“\uC2E4”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(17,22): warning C4566: 由通用字符名称“\uD328”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uC708”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uB3C4”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uC6B0”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uC0DD”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uC131”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uC2E4”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(35,22): warning C4566: 由通用字符名称“\uD328”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(54,22): warning C4566: 由通用字符名称“\uCD08”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(54,22): warning C4566: 由通用字符名称“\uAE30”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(54,22): warning C4566: 由通用字符名称“\uD654”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(54,22): warning C4566: 由通用字符名称“\uC2E4”表示的字符不能在当前代码页(936)中表示出来
+E:\GitProjects\OpenGL\hello world\hello world.cpp(54,22): warning C4566: 由通用字符名称“\uD328”表示的字符不能在当前代码页(936)中表示出来
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 "void __cdecl key_pressed(struct GLFWwindow *,int,int,int,int)" (?key_pressed@@YAXPAUGLFWwindow@@HHHH@Z) 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwSetErrorCallback，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwSetWindowSizeCallback，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwSetKeyCallback，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+hello world.obj : error LNK2019: 无法解析的外部符号 _glfwSwapInterval，函数 _main 中引用了该符号
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\lib\x86\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\GitProjects\OpenGL\hello world\Debug\hello world.exe : fatal error LNK1120: 13 个无法解析的外部命令

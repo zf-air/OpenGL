@@ -1,0 +1,5 @@
+﻿first.obj : error LNK2019: 无法解析的外部符号 __imp__glClear@4，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+first.obj : error LNK2019: 无法解析的外部符号 __imp__glClearColor@16，函数 "void __cdecl window_resized(struct GLFWwindow *,int,int)" (?window_resized@@YAXPAUGLFWwindow@@HH@Z) 中引用了该符号
+first.obj : error LNK2019: 无法解析的外部符号 __imp__glGetIntegerv@8，函数 _main 中引用了该符号
+first.obj : error LNK2019: 无法解析的外部符号 __imp__glGetString@4，函数 _main 中引用了该符号
+E:\GitProjects\OpenGL\first\Debug\first.exe : fatal error LNK1120: 4 个无法解析的外部命令
