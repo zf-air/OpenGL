@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\GitProjects\OpenGL\OpenGLExercise_Shader01\main.cpp(163,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  OpenGLExercise_Shader01.vcxproj -> E:\GitProjects\OpenGL\OpenGLExercise_Shader01\Debug\OpenGLExercise_Shader01.exe
